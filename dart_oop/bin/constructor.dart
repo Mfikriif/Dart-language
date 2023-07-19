@@ -1,9 +1,11 @@
 class Person{
 
+  //field
   String name = "Guest";
   String? address ;
   final String country = "Indonesia";
 
+  //constructor
   Person(String paramName ,String paramAddress){
     name = paramName;
     address = paramAddress;
