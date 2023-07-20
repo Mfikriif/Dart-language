@@ -3,7 +3,7 @@
 
 class Orang {
 
-  String name = "Fikri";
+  String name = "Guest";
   String? address;
   final String country = "Indonesia";
 

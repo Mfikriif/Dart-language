@@ -1,4 +1,5 @@
-class Person {
+class Person{
+  
   String name = "Guest";
   String? address;
   final String country = "Indonesia"; //menggunakan "final" agar data tersebut tidak dapat diganti

@@ -1,4 +1,4 @@
-class computer{
+class Computer{
 
   void startup() => print("computer is starting");
 
@@ -10,7 +10,7 @@ class computer{
 
 void main() {
 
-  var computer1 = computer();
+  var computer1 = Computer();
   computer1.startup();
   computer1.shutdown();
   print(computer1.getOpperatingSystem());
