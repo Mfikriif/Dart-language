@@ -7,6 +7,7 @@ class Person{
   //ini merupakan formal parameter.
   Person(this.name, this.address);
 
+  
 }
 
 void main(){

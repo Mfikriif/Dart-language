@@ -27,11 +27,11 @@ void main() {
   print(pengguna.name);
 
   
-  User? user = createUser()     
+  User? pengguna1 = createUser()     
     ?..name = "Fikri Firdaus"   /*casecde nullable */
     ..username = "Pikss"
     ..email = "fikrifirdaus.com";
-
+  
 } 
 
 
